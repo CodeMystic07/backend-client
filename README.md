@@ -1,4 +1,4 @@
-# Backend-client
+# WireMind-AI
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/wirepas/backend-client)
 
